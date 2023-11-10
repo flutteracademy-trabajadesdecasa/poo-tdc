@@ -24,3 +24,6 @@ void main() {
 
   final persona2 = Europeo();
 }
+
+
+ //https://medium.com/comunidad-flutter/dart-qué-son-los-mixins-5f2ab880a4ce
